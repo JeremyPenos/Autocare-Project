@@ -1,6 +1,7 @@
 Precision Auto Care – SQL Database Design Project
 
 Overview
+
 This project focuses on the design and implementation of a relational database for Precision Auto Care, a fast-growing automotive repair facility with multiple locations. The database was created to support a customer-centric service model, improve operational efficiency, and enable future business expansion.
 
 Business Objectives
@@ -18,4 +19,5 @@ Key SQL Skills Demonstrated
 - Sample Business Questions Answered
 
 Why This Project Matters
+
 This project demonstrates my ability to translate real-world business requirements into a normalized, scalable SQL database, highlighting both technical proficiency and business-oriented thinking relevant data-focused roles.

@@ -1,0 +1,11 @@
+cert_id,cert_desc,cert_body,cert_date,staff_id
+CR01,ASE Engine Repair Certification,ASE,2022-04-15,S001
+CR02,Brake Systems Specialist,Automotive Service Council,2023-08-22,S004
+CR03,Customer Care & Service Excellence,Texas Auto Assoc,2021-11-05,S003
+CR04,Electrical Systems Technician,ASE,2020-06-19,S006
+CR05,Automotive Service Advisor Certification,AAA,2023-02-11,S002
+CR06,Collision Repair Professional,I-CAR,2021-09-27,S008
+CR07,Parts Management Specialist,NAPA Training,2022-12-04,S003
+CR08,Paint & Finishing Certification,PPG,2024-01-17,S008
+CR09,Advanced Diagnostics Training,Bosch,2023-07-08,S001
+CR10,Shop Safety & Compliance,OSHA,2020-03-30,S010

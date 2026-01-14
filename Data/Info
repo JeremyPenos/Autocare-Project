@@ -1,1 +1,3 @@
+This directory contains 15 synthetic files created solely to populate the relational tables designed for this AutoCare SQL project.
 
+The datasets do not represent real customers, vehicles, locations, vendors, etc. They are mock data generated to support schema design, relational modeling, and SQL query development.
